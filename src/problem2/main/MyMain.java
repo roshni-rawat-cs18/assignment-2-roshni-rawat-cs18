@@ -26,4 +26,4 @@ public class MyMain {
     obj.countNotLeft();
     }
   }
-}
+

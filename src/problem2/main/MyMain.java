@@ -20,10 +20,12 @@ public class MyMain {
     obj.insert(40);
     obj.insert(30);
     obj.preVSpost();
-    System.out.println("All Left Nodes");
-    obj.printLeftNode();
-    System.out.println("count of Nodes not having left node");
-    obj.countNotLeft();
     }
   }
+    
+    
+    
+
+    
+  
 
